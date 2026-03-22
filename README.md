@@ -1,8 +1,5 @@
 # DocuFlow Frontend
 
-[![Product Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=VeF_WH0lBcg)
-[![Pitch Deck](https://img.shields.io/badge/Slide%20Deck-Google%20Slides-34A853?logo=google%20slides&logoColor=white)](https://docs.google.com/presentation/d/1-4UzFsEGc-YEsawkF1TZr6JJp8wF3YZD3iYsPQI4PLo/edit?usp=sharing)
-
 DocuFlow is the intelligence layer for finance teams who live inside PDFs. Built with Vite, React, and TypeScript, the frontend turns raw invoices and contracts into auditor-ready insights, pairing real-time analytics with conversational AI so analysts can move from ingestion to investigation without leaving the browser.
 
 ---
@@ -36,10 +33,6 @@ DocuFlow is the intelligence layer for finance teams who live inside PDFs. Built
 - **Deployment-ready stack:** Vite + React + Tailwind builds into a static bundle deployable on Cloudflare Pages, Vercel, or S3/CloudFront.  
 - **Configurable integrations:** `.env` variables switch API backends; ADE endpoints and Gemini keys can be rotated without code changes.  
 - **Pilot roadmap:** Week 0–2 environment setup; week 3–6 targeted pilot with two finance personas; week 7–9 expand to compliance plus production hardening (monitoring, RBAC, audit logs).
-
-## Presentation & Demo Assets
-- **Product demo:** Watch the narrated walkthrough covering upload, ADE extraction, and AI insights.
-- **Pitch deck:** Review the complementary slide narrative covering problem statement, architecture, and pilot milestones.
 
 ## What It Solves
 
